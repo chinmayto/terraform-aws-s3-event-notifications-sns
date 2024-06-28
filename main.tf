@@ -1,5 +1,5 @@
 ####################################################
-# S3 static website bucket
+# Create an S3 Bucket
 ####################################################
 resource "aws_s3_bucket" "my-bucket" {
   bucket = var.bucket_name
