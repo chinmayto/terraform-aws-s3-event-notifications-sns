@@ -107,5 +107,6 @@ We have successfully configured AWS S3 event notifications to send emails using 
 
 ## Resources
 AWS S3 Notifications https://docs.aws.amazon.com/AmazonS3/latest/userguide/EventNotifications.html
+
 Github Link: https://github.com/chinmayto/terraform-aws-s3-event-notifications-sns
 
